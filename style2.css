@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-item:hover{
+    background-color: rgba(245, 222, 179, 0.548);
+    border-radius: 30px;
+    }
